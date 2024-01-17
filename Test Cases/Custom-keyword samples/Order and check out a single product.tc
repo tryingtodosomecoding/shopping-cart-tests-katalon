@@ -5,6 +5,63 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>97bcb31c-8977-47a0-819e-5a33e6ab282e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>94bd2e38-69d3-4b04-86cf-806d34a3d759</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Multiple Checkout</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>94bd2e38-69d3-4b04-86cf-806d34a3d759</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>firstName</value>
+      <variableId>700d6e4e-307e-448a-aa19-8127c96f0056</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>94bd2e38-69d3-4b04-86cf-806d34a3d759</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>lastName</value>
+      <variableId>8c0d16db-73f9-40b6-851f-f777b8bae206</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>94bd2e38-69d3-4b04-86cf-806d34a3d759</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>companyName</value>
+      <variableId>672fb4fd-4f00-452f-a8b4-62df3d124ffc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>94bd2e38-69d3-4b04-86cf-806d34a3d759</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>country</value>
+      <variableId>51421ccf-ad17-4e9f-9d5a-18e620ee93bc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>94bd2e38-69d3-4b04-86cf-806d34a3d759</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>address</value>
+      <variableId>2c863fc5-9dab-4c4a-881c-d478032e26c7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>94bd2e38-69d3-4b04-86cf-806d34a3d759</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>city</value>
+      <variableId>4f8f1ad7-8f79-44a0-b33d-fc78e90e9e1a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>94bd2e38-69d3-4b04-86cf-806d34a3d759</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>postCode</value>
+      <variableId>1106ce6b-eba2-406b-ac41-b29f53a45fcd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>94bd2e38-69d3-4b04-86cf-806d34a3d759</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Phone</value>
+      <variableId>5cb399d2-1bfc-408e-8254-a03dd003f568</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>GlobalVariable.firstName</defaultValue>
       <description></description>

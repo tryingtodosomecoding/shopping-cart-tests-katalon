@@ -5,6 +5,21 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>09a2e0dd-0e19-40d5-9769-5afa5972ebd5</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3404a455-4615-4df0-b433-e61eb8e87b13</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Product List</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3404a455-4615-4df0-b433-e61eb8e87b13</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>productName</value>
+      <variableId>e316e7e7-cde2-4ff4-84f7-e4519410ab7c</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'Flying Ninja'</defaultValue>
       <description></description>
